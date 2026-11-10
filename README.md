@@ -1,4 +1,4 @@
-Hi there ☀️
+#Hi there ☀️
 
 I'm [Nikita](https://en.wikipedia.org/wiki/Nikita_(given_name)), an Aerospace engineer who loves coding.
 
