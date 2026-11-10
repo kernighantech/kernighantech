@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there ☀️
 
-<!--
-**kernighantech/kernighantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Nikita](https://en.wikipedia.org/wiki/Nikita_(given_name)), an Aerospace engineer who loves coding.
 
-Here are some ideas to get you started:
+Code, build, cook whatever comes to my mind and share it with you.💐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Usually I build some useful stuff but as a gamer can't stop myself from creating interesting tools for them. 👾
+
+My main languages are python, javascript, c++ and java. For the project design I use figma, paint and paper.
+
+If you have any ideas or suggestions, text me📱
+
+Fun facts: 
+•I love cats so much.😺
+•My avatar is the mascot of one of the products I'm working on rn.☀️
+•**Hobbies** : gym, avionics, cooking coffee, coding for you.
+
+
+╰(*°▽°*)╯
