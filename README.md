@@ -24,4 +24,7 @@ code or just having fun with things all of us have : **Computers**!💻
 <br />
 
 #
-<img  src="https://i.postimg.cc/fRnp9RYc/glyph-mosaic-photo-(1).png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/PNn58ktV/glyph-mosaic-photo-(1).png">
+  <img src="https://i.postimg.cc/4xTYYpyv/glyph-mosaic-photo.png" alt="My photo" width="500">
+</picture>
