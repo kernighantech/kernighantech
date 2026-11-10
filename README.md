@@ -21,7 +21,6 @@ code or just having fun with things all of us have : **Computers**!💻
 <img align="left" alt="CSS3" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Ardu" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="FUS" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" />
-<img align="left" alt="Ollama" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" />
 <br />
 
 #
