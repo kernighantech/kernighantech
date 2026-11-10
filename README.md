@@ -1,15 +1,27 @@
-#Hi there ☀️
+# Hi there ☀️
 
-I'm [Nikita](https://en.wikipedia.org/wiki/Nikita_(given_name)), an Aerospace engineer who loves coding.
+**`Digital Craftsman (Developer/CAD designer)`**
 
-Code, build, cook whatever comes to my mind and share it with you.💐
+I'm indie dev and content creator building cool and mind blowing stuff for you. All projects you see on this page are 
+build from the ground up, starting from planning and designing , all the way to the solving real life problems with 
+code or just having fun with things all of us have : **Computers**!💻
 
-Usually I build some useful stuff but as a gamer can't stop myself from creating interesting tools for them. 👾
+---
+### 🧰 Languages and tools 
 
-My main languages are python, javascript, c++ and java. For the project design I use figma, paint and paper.
+<img align="left" alt="Python" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="CPP" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="JAVA" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="REACT" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="VScode" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Mysql" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Ardu" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="FUS" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" />
+<img align="left" alt="Ollama" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" />
+<br />
 
-If you have any ideas or suggestions, text me📱
-
-
-
-^_^
+#
