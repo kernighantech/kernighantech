@@ -25,6 +25,6 @@ code or just having fun with things all of us have : **Computers**!💻
 
 #
 <picture >
-  <source media="(prefers-color-scheme: dark)" width="1080" height="600"srcset="https://i.postimg.cc/PNn58ktV/glyph-mosaic-photo-(1).png">
-  <img width="1080" height="600" src="https://i.postimg.cc/4xTYYpyv/glyph-mosaic-photo.png" alt="My photo" width="500">
+  <source media="(prefers-color-scheme: dark)" width="1080" height="500"srcset="https://i.postimg.cc/PNn58ktV/glyph-mosaic-photo-(1).png">
+  <img width="1080" height="500" src="https://i.postimg.cc/4xTYYpyv/glyph-mosaic-photo.png" alt="My photo" width="500">
 </picture>
