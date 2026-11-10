@@ -10,10 +10,5 @@ My main languages are python, javascript, c++ and java. For the project design I
 
 If you have any ideas or suggestions, text me📱
 
-Fun facts: 
-•I love cats so much.😺
-•My avatar is the mascot of one of the products I'm working on rn.☀️
-•**Hobbies** : gym, avionics, cooking coffee, coding for you.
-
 
 ╰(*°▽°*)╯
