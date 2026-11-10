@@ -11,4 +11,4 @@ My main languages are python, javascript, c++ and java. For the project design I
 If you have any ideas or suggestions, text me📱
 
 
-╰(*°▽°*)╯
+(●'◡'●)
